@@ -1,0 +1,415 @@
+
+Measurement results at 2018-11-18 00:30:20
+Primary clarifier:
+Level: 84%
+Input turbidity: 39.7755NTU
+Output turbidity: 7.8961NTU
+Secondary clarifier:
+Level: 84%
+Input turbidity: 8.2637NTU
+Output turbidity: 4.3220NTU
+Aeration tank:
+Level: 89%
+Air compressor:
+Output air pressure: 1.0942atm
+Grit chamber:
+Level: 91%
+
+Measurement results at 2018-11-18 00:30:21
+Grit chamber:
+Level: 81%
+
+Measurement results at 2018-11-18 00:30:23
+Air compressor:
+Output air pressure: 1.5685atm
+
+Measurement results at 2018-11-18 00:30:26
+Primary clarifier:
+Level: 93%
+Output turbidity: 5.7666NTU
+Air compressor:
+Output air pressure: 2.4221atm
+
+Measurement results at 2018-11-18 00:30:28
+Primary clarifier:
+Level: 89%
+Input turbidity: 49.3569NTU
+Output turbidity: 8.6174NTU
+
+Measurement results at 2018-11-18 00:30:29
+Primary clarifier:
+Input turbidity: 6.2224NTU
+Secondary clarifier:
+Level: 90%
+Input turbidity: 8.3912NTU
+Grit chamber:
+Level: 89%
+
+Measurement results at 2018-11-18 00:30:31
+Primary clarifier:
+Level: 80%
+Output turbidity: 1.2349NTU
+Air compressor:
+Output air pressure: 2.9397atm
+
+Measurement results at 2018-11-18 00:30:32
+Primary clarifier:
+Level: 90%
+Grit chamber:
+Level: 81%
+
+Measurement results at 2018-11-18 00:30:33
+Primary clarifier:
+Input turbidity: 41.5242NTU
+Secondary clarifier:
+Output turbidity: 4.6619NTU
+Grit chamber:
+Level: 93%
+
+Measurement results at 2018-11-18 00:30:34
+Primary clarifier:
+Level: 87%
+Input turbidity: 20.8896NTU
+Output turbidity: 4.1765NTU
+Air compressor:
+Output air pressure: 0.3192atm
+Grit chamber:
+Level: 82%
+
+Measurement results at 2018-11-18 00:30:37
+Primary clarifier:
+Level: 91%
+Input turbidity: 7.3813NTU
+
+Measurement results at 2018-11-18 00:30:37
+Secondary clarifier:
+Input turbidity: 6.3236NTU
+Output turbidity: 1.0268NTU
+
+Measurement results at 2018-11-18 00:30:38
+Aeration tank:
+Level: 100%
+Grit chamber:
+Level: 87%
+
+Measurement results at 2018-11-18 00:30:38
+Aeration tank:
+Level: 100%
+Grit chamber:
+Level: 87%
+
+Measurement results at 2018-11-18 00:31:20
+Primary clarifier:
+Level: 81%
+Input turbidity: 21.7131NTU
+Output turbidity: 6.1543NTU
+Secondary clarifier:
+Level: 88%
+Input turbidity: 9.6271NTU
+Output turbidity: 3.7818NTU
+Aeration tank:
+Level: 95%
+Air compressor:
+Output air pressure: 3.8303atm
+Grit chamber:
+Level: 89%
+
+Measurement results at 2018-11-18 00:31:21
+Primary clarifier:
+Level: 82%
+Input turbidity: 47.2294NTU
+Secondary clarifier:
+Level: 100%
+Output turbidity: 2.1660NTU
+
+Measurement results at 2018-11-18 00:31:38
+Primary clarifier:
+Level: 98%
+Secondary clarifier:
+Input turbidity: 7.7691NTU
+Output turbidity: 1.5617NTU
+Aeration tank:
+Level: 92%
+
+Measurement results at 2018-11-18 00:31:39
+Aeration tank:
+Level: 81%
+
+Measurement results at 2018-11-18 00:31:39
+Aeration tank:
+Level: 81%
+
+Measurement results at 2018-11-18 00:31:42
+Primary clarifier:
+Level: 84%
+Input turbidity: 19.7014NTU
+Secondary clarifier:
+Level: 93%
+Aeration tank:
+Level: 99%
+Grit chamber:
+Level: 100%
+
+Measurement results at 2018-11-18 00:32:11
+Primary clarifier:
+Level: 85%
+Input turbidity: 40.4930NTU
+Output turbidity: 3.2809NTU
+Secondary clarifier:
+Level: 90%
+Input turbidity: 3.6930NTU
+Output turbidity: 1.7371NTU
+Aeration tank:
+Level: 93%
+Air compressor:
+Output air pressure: 2.8777atm
+Grit chamber:
+Level: 93%
+
+Measurement results at 2018-11-18 00:32:13
+Primary clarifier:
+Input turbidity: 42.6172NTU
+Output turbidity: 1.9991NTU
+Secondary clarifier:
+Input turbidity: 1.3110NTU
+
+Measurement results at 2018-11-18 00:32:31
+Primary clarifier:
+Level: 81%
+Input turbidity: 42.5010NTU
+Output turbidity: 2.9411NTU
+Secondary clarifier:
+Level: 90%
+Input turbidity: 4.6490NTU
+Output turbidity: 2.7641NTU
+Aeration tank:
+Level: 92%
+Air compressor:
+Output air pressure: 2.5418atm
+Grit chamber:
+Level: 99%
+
+Measurement results at 2018-11-18 00:33:09
+Primary clarifier:
+Level: 82%
+Input turbidity: 17.3638NTU
+Output turbidity: 8.8386NTU
+Secondary clarifier:
+Level: 90%
+Input turbidity: 4.4563NTU
+Output turbidity: 1.7881NTU
+Aeration tank:
+Level: 86%
+Air compressor:
+Output air pressure: 1.2960atm
+Grit chamber:
+Level: 84%
+
+Measurement results at 2018-11-18 00:33:15
+Secondary clarifier:
+Level: 100%
+Input turbidity: 6.7494NTU
+Output turbidity: 3.2727NTU
+Air compressor:
+Output air pressure: 3.0456atm
+
+Measurement results at 2018-11-18 00:33:18
+Primary clarifier:
+Input turbidity: 17.6487NTU
+Output turbidity: 9.2473NTU
+
+Measurement results at 2018-11-18 00:33:19
+Air compressor:
+Output air pressure: 2.3757atm
+
+Measurement results at 2018-11-18 00:33:22
+Primary clarifier:
+Input turbidity: 21.2972NTU
+Output turbidity: 8.3527NTU
+Secondary clarifier:
+Input turbidity: 9.0444NTU
+Output turbidity: 3.1154NTU
+
+Measurement results at 2018-11-18 00:33:24
+Primary clarifier:
+Input turbidity: 34.8276NTU
+Air compressor:
+Output air pressure: 3.6222atm
+
+Measurement results at 2018-11-18 00:33:27
+Aeration tank:
+Level: 98%
+
+Measurement results at 2018-11-18 00:33:28
+Secondary clarifier:
+Output turbidity: 2.2981NTU
+Air compressor:
+Output air pressure: 1.6419atm
+
+Measurement results at 2018-11-18 00:33:28
+Secondary clarifier:
+Output turbidity: 2.2981NTU
+Air compressor:
+Output air pressure: 1.6419atm
+
+Measurement results at 2018-11-18 00:33:31
+Secondary clarifier:
+Level: 90%
+
+Measurement results at 2018-11-18 00:33:31
+Secondary clarifier:
+Level: 90%
+
+Measurement results at 2018-11-18 00:35:49
+Primary clarifier:
+Level: 97%
+Input turbidity: 5.0834NTU
+Output turbidity: 6.6349NTU
+Secondary clarifier:
+Level: 89%
+Input turbidity: 3.4883NTU
+Output turbidity: 3.0474NTU
+Aeration tank:
+Level: 90%
+Air compressor:
+Output air pressure: 3.4364atm
+Grit chamber:
+Level: 85%
+
+Measurement results at 2018-11-18 00:35:51
+Air compressor:
+Output air pressure: 1.9396atm
+Grit chamber:
+Level: 96%
+
+Measurement results at 2018-11-18 00:35:51
+Air compressor:
+Output air pressure: 1.9396atm
+Grit chamber:
+Level: 96%
+
+Measurement results at 2018-11-18 00:35:51
+Air compressor:
+Output air pressure: 1.9396atm
+Grit chamber:
+Level: 96%
+
+Measurement results at 2018-11-18 00:36:33
+Primary clarifier:
+Level: 83%
+Input turbidity: 46.4984NTU
+Output turbidity: 5.0075NTU
+Secondary clarifier:
+Level: 92%
+Input turbidity: 6.6852NTU
+Output turbidity: 1.4625NTU
+Aeration tank:
+Level: 85%
+Air compressor:
+Output air pressure: 3.8942atm
+Grit chamber:
+Level: 93%
+
+Measurement results at 2018-11-18 00:36:35
+Primary clarifier:
+Level: 96%
+Output turbidity: 8.1673NTU
+Secondary clarifier:
+Level: 87%
+Input turbidity: 8.5199NTU
+
+Measurement results at 2018-11-18 00:36:38
+Primary clarifier:
+Level: 95%
+Input turbidity: 37.7974NTU
+Output turbidity: 4.4777NTU
+Secondary clarifier:
+Level: 80%
+
+Measurement results at 2018-11-18 00:36:39
+Primary clarifier:
+Output turbidity: 5.8475NTU
+Grit chamber:
+Level: 94%
+
+Measurement results at 2018-11-18 00:36:42
+Primary clarifier:
+Level: 81%
+Output turbidity: 7.5211NTU
+Secondary clarifier:
+Input turbidity: 8.1949NTU
+
+Measurement results at 2018-11-18 00:36:44
+Secondary clarifier:
+Input turbidity: 3.1708NTU
+Aeration tank:
+Level: 86%
+
+Measurement results at 2018-11-18 00:37:03
+Primary clarifier:
+Level: 80%
+Grit chamber:
+Level: 80%
+
+Measurement results at 2018-11-18 00:37:03
+Primary clarifier:
+Level: 80%
+Grit chamber:
+Level: 80%
+
+Measurement results at 2018-11-18 00:37:04
+Primary clarifier:
+Level: 95%
+Output turbidity: 9.3045NTU
+Secondary clarifier:
+Level: 91%
+Input turbidity: 5.7824NTU
+Output turbidity: 1.2424NTU
+Grit chamber:
+Level: 92%
+
+Measurement results at 2018-11-18 00:37:06
+Primary clarifier:
+Level: 84%
+Input turbidity: 39.4470NTU
+Output turbidity: 6.2497NTU
+
+Measurement results at 2018-11-18 00:37:09
+Primary clarifier:
+Level: 93%
+Input turbidity: 41.0523NTU
+
+Measurement results at 2018-11-18 00:37:09
+Primary clarifier:
+Level: 93%
+Input turbidity: 41.0523NTU
+
+Measurement results at 2018-11-18 00:37:11
+Secondary clarifier:
+Level: 95%
+Input turbidity: 2.1715NTU
+Output turbidity: 2.0614NTU
+
+Measurement results at 2018-11-18 00:37:59
+Secondary clarifier:
+Level: 96%
+Input turbidity: 1.8902NTU
+Output turbidity: 4.6788NTU
+
+Measurement results at 2018-11-18 00:38:00
+Secondary clarifier:
+Level: 85%
+Input turbidity: 1.4173NTU
+Output turbidity: 3.4620NTU
+Air compressor:
+Output air pressure: 4.8787atm
+
+Measurement results at 2018-11-18 00:38:01
+Aeration tank:
+Level: 85%
+
+Measurement results at 2018-11-18 00:38:03
+Primary clarifier:
+Input turbidity: 25.2061NTU
+Grit chamber:
+Level: 83%
